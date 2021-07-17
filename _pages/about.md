@@ -21,4 +21,4 @@ Previously I have worked on
 - Graph theory
 - Graph Search Algorithms
 
-In the non-academic life I enjoy swimming, and I am a professional swimmer with more that 10 ears of experience.
+In the non-academic life I enjoy swimming, and I am a professional swimmer with more that 10 years of experience.
